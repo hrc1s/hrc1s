@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring and self motivated full stack web developer with passion for coding and having 1200+ hours of coding experience. I believe in team work makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organisation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrc1s&label=Profile%20views&color=0e75b6&style=flat" alt="hrc1s" /> </p>
 
